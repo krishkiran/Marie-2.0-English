@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, I'm *Thendral v2.0!* I'm Group Manager @2kTamilmovies_Req_Chat, Controlled By  [This Person](tg://user?id={}) 😎
+Hi {}, I'm *Thendral v2.0!* I'm Group Manager (@2kTamilmovies_Req_Chat), Controlled By  [This Person](tg://user?id=https://t.me/DChoco_Boy) 😎
 
 For more commands click /help...
 
