@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, I'm *Shreya v2.0!* I'm Group Manager [@Vellithiras](t.me//vellithiras), Controlled By  [This Person](https://t.me/Sree332) 😎
+Hi {}, I'm *Rashmika v2.0!* I'm Group Manager [@2kTamilmovies-Bot](t.me//TwokTamilMovies), Controlled By  [This Person](https://t.me/DChoco_Boy) 😎
 
 For more commands click /help...
 
