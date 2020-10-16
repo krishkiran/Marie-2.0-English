@@ -22,6 +22,10 @@ Hi {}, I'm *Rashmika v2.0!* I'm Group Manager [@2kTamilmovies](t.me//TwokTamilMo
 [ɢʀᴏᴜᴘ](buttonurl:https://t.me/TwokTamilMovies)
 [ᴄʜᴀɴɴᴇʟ](buttonurl:https://t.me/joinchat/AAAAAEmtNQ1xbRwFEzZb7w:same)
 
+For more commands click /help...
+"""
+
+
 Hello! my name *{}*.
 
 *Main* available commands:
