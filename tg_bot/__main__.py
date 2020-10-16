@@ -18,13 +18,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, I'm *Rashmika v2.0!* I'm Group Manager [@2kTamilmovies-Bot](t.me//TwokTamilMovies), Controlled By  [This Person](https://t.me/DChoco_Boy) 😎
-
-For more commands click /help...
-
-"""
-
-HELP_STRINGS = """
+Hi {}, I'm *Rashmika v2.0!* I'm Group Manager [@2kTamilmovies](t.me//TwokTamilMovies), Controlled By  [This Person](https://t.me/DChoco_Boy) 😎
+[ɢʀᴏᴜᴘ](buttonurl:https://t.me/TwokTamilMovies)
+[ᴄʜᴀɴɴᴇʟ](buttonurl:https://t.me/joinchat/AAAAAEmtNQ1xbRwFEzZb7w:same)
 
 Hello! my name *{}*.
 
