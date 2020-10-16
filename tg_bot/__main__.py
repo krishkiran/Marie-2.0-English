@@ -19,8 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 Hi {}, I'm *Rashmika v2.0!* I'm Group Manager [@2kTamilmovies](t.me//TwokTamilMovies), Controlled By  [This Person](https://t.me/DChoco_Boy) 😎
-[ɢʀᴏᴜᴘ](buttonurl:https://t.me/TwokTamilMovies)
-[ᴄʜᴀɴɴᴇʟ](buttonurl:https://t.me/joinchat/AAAAAEmtNQ1xbRwFEzZb7w:same)
+[ InlineKeyboardButton('Group', url='https://t.me/TwokTamilMovies'), InlineKeyboardButton('Channel', url='https://t.me/joinchat/AAAAAEmtNQ1xbRwFEzZb7w') ]
 
 For more commands click /help...
 
