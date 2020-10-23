@@ -22,9 +22,6 @@ Hi {}, I'm *Rashmika v2.0!* I'm Group Manager [@2kTamilmovies](t.me//TwokTamilMo
 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="Group", url="https://t.me/Cinema_Premikalg"), InlineKeyboardButton(text="Channel", url="https://t.me/joinchat/AAAAAFJ-W5-qaOF5XshtCw")]]))
 
-For more commands click /help...
-
-
 """
 
 HELP_STRINGS = """
